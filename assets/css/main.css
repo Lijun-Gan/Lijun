@@ -2263,7 +2263,7 @@ input, select, textarea {
 
 		ul.actions img {
 			height: 300px;
-			width: 180px;
+			max-width: 180px;
 		}
 
 
@@ -3280,7 +3280,7 @@ ul.icons.major li {
 	padding-right: 1em;
 	font-size: 43px;
 	padding: 1em, 1em;
-	width: 116px;
+	width: 109px;
 	text-align: center;
 }
 
